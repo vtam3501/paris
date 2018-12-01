@@ -24,9 +24,9 @@
 		 
 			<h3> What's your gender?</h3>
 
-				<input type="radio" name="gender" id="female" value="Femal"><label for="female">Female</label><br>
+				<input type="radio" name="gender" id="female" value="Female"><label for="female">Female</label><br>
 
-				<input type="radio" name="gender" id="male" value="Male"><label for="male">male</label><br>
+				<input type="radio" name="gender" id="male" value="Male"><label for="male">Male</label><br>
 
 				<input type="radio" name="gender" id="not-sure" value="Prefer not to answer"><label for="not-sure">Prefer not to answer</label><br>
 
@@ -53,13 +53,13 @@
 					<label for="never-heard">No, I never heard about that.</label><br>
 
 
-			<h3> If you had heard about the meal kit industry, please select the company you know/have tried. </h3>
+			<h3> If you have heard about the meal kit industry, please select the company you know/have tried. </h3>
 
 
 				<input type="checkbox" name="Hellofresh" id=Hellofresh" value="Hellofresh">
 					<label for="Hellofresh">Hellofresh</label><br>
 
-				<input type="checkbox" name="Blue-Aprone" id="Blue-Aprone" vlaue="Blue-Aprone">
+				<input type="checkbox" name="Blue-Apron" id="Blue-Apron" vlaue="Blue-Apron">
 					<label for="Blue-Apron">Blue-Apron</label><br>
 
 				<input type="checkbox" name="Plated" id="Plated" value="Plated">
@@ -67,7 +67,7 @@
 
 				<input type="checkbox" name="Home-Chef" id="Home-Chef" value="Home-Chef">
 					<label for="Home-Chef">Home-Chef</label><br>
-		<h2>
+		
 		
 
 	<input type="submit" value="Submit">
