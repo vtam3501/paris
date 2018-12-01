@@ -1,5 +1,5 @@
 <?php include "inc/html_top.inc"; ?>
-<title>F.I.T | Team Paris</title>
+<title>Survey | Team Paris</title>
 <?php include "inc/html_top2.inc"; ?>
 
 		<form method="post" action="form-processor.php" class="full-width">
