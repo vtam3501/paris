@@ -14,7 +14,7 @@
 
 		    <label for="email"> </label>
 
-				UR Email:<input type="text" name="email" id="email"><br>
+			UR Email:<input type="text" name="email" id="email"><br>
 			
 
 		</fieldset>
@@ -42,8 +42,6 @@
 
 		<h2> Specific Questions</h2>
 
-			
-
 			<h3> Have you ever heard about meal kit industry? (Hellofresh / Blue Apron)</h3>
 
 				<input type="radio" name="heard"  id="heard" value="heard">
@@ -55,11 +53,10 @@
 
 			<h3> If you have heard about the meal kit industry, please select the company you know/have tried. </h3>
 
-
 				<input type="checkbox" name="Hellofresh" id=Hellofresh" value="Hellofresh">
 					<label for="Hellofresh">Hellofresh</label><br>
 
-				<input type="checkbox" name="Blue-Apron" id="Blue-Apron" vlaue="Blue-Apron">
+				<input type="checkbox" name="Blue-Apron" id="Blue-Apron" value="Blue-Apron">
 					<label for="Blue-Apron">Blue-Apron</label><br>
 
 				<input type="checkbox" name="Plated" id="Plated" value="Plated">
