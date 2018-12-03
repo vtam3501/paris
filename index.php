@@ -20,6 +20,9 @@
 			F.I.T (Find the Ideal Type), is under the parent company HelloFresh, in the hope of expanding its market share and promoting healthy food plans, diets, and lifestyles in our whole society. 
 		</p>
 		
+
+		<div>
+			Fill our the Survey and Win an 500$ Amazon Card! <a href="survey.php">Please click here!</a>
 	</main>
 
 
