@@ -14,6 +14,7 @@
 	<main>
 
 		<h2> Introduction</h2>
+		<img src="images/logo.png" alt="this is the logo of F.I.T.">
 
 		<p>
 			F.I.T (Find the Ideal Type), is under the parent company HelloFresh, in the hope of expanding its market share and promoting healthy food plans, diets, and lifestyles in our whole society. 

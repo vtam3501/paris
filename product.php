@@ -11,6 +11,8 @@
 <?php include "inc/nav.inc"; ?>
 	<main>
 		<h2>Product</h2>
+
+		<img src="images/recipie.png" alt="this is an ideal recipie of F.I.T.">
 		<p>
 			People choose a specific diet plan online through the APP, and according to their choice, we will deliver fresh food box every week. The food box includes the recipe, exact amount of ingredients in small bags which will help people control their calorie intakes. There will be 3 diet plans—all lasting 21 days—including weight loss, keeping fit and weight gain. Concerning the customization, for each plan, there are 5 choices with different kinds of food. By sticking to our 21-day diet plan, people are able to reach their short-term weight management goals and develop healthy eating habits in the long run. In the meanwhile, our product enables people to enjoy cooking, get the freshest high-quality food and save their time. 
 		</p>
