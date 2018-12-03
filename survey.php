@@ -1,6 +1,17 @@
 <?php include "inc/html_top.inc"; ?>
-<title>Survey | Team Paris</title>
+<title> Survey| Team Paris</title>
 <?php include "inc/html_top2.inc"; ?>
+
+<body>
+
+	<header>
+		<h1> Product servey</h1>
+	</header>
+
+<?php include "inc/nav.inc"; ?>
+
+	<main>
+		<h2>Pleas fill out it survey! we will provide a 500$ amazon gift card</h2>
 
 		<form method="post" action="form-processor.php" class="full-width">
 
