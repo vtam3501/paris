@@ -15,13 +15,13 @@
 		    <label for="email"> </label>
 
 			UR Email:<input type="text" name="email" id="email"><br>
-			
+
 
 		</fieldset>
 
 
 		<h2>Demographic Questions</h2>
-		 
+
 			<h3> What's your gender?</h3>
 
 				<input type="radio" name="gender" id="female" value="Female"><label for="female">Female</label><br>
@@ -38,7 +38,7 @@
 				<input type="radio" name="age" id="senior" value="over56"><label for="senior">Over 55</label><br>
 				<input type="radio" name="gender" id="not-answer" value="Prefer not to answer"><label for="not-sure">Prefer not to answer</label><br>
 
-			
+
 
 		<h2> Specific Questions</h2>
 
@@ -53,7 +53,7 @@
 
 			<h3> If you have heard about the meal kit industry, please select the company you know/have tried. </h3>
 
-				<input type="checkbox" name="Hellofresh" id=Hellofresh" value="Hellofresh">
+				<input type="checkbox" name="Hellofresh" id="Hellofresh" value="Hellofresh">
 					<label for="Hellofresh">Hellofresh</label><br>
 
 				<input type="checkbox" name="Blue-Apron" id="Blue-Apron" value="Blue-Apron">
@@ -64,8 +64,8 @@
 
 				<input type="checkbox" name="Home-Chef" id="Home-Chef" value="Home-Chef">
 					<label for="Home-Chef">Home-Chef</label><br>
-		
-		
+
+
 
 		<input type="submit" value="Submit">
 
